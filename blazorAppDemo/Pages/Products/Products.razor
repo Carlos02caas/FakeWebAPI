@@ -1,0 +1,60 @@
+@page "/product"
+@inject ILogger<Products> logger;
+@inject IProductService ProductService;
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JSRuntime
+
+
+<PageTitle>Products</PageTitle>
+
+<ModuleTittle Title="Products"/>
+
+<link rel="stylesheet" href="Products.razor.css" />
+
+<button class="btn btn-dark mb-lg-3" @onclick="@(()=>NavigationManager.NavigateTo("/AddProduct"))">Add Product</button>
+
+@if(products?.Count > 0)
+{
+    <div class="products-container">
+        @foreach (var product in products)
+        {
+            <div class="card">
+                <img class="card-img-top" src="@product.Images[0]" alt="Product" loading="lazy" width="270" height="210">
+                <div class="card-body">
+                    <h4><b>@product.Title</b></h4>
+                    <p>@product.Price?.ToString("C")</p>
+
+                    <button title="Delete" class="btn btn-danger mb-md-3 mt-md-3" @onclick="@(()=> DeleteProduct(product))"><span class="oi oi-trash"></span></button>
+                </div>
+            </div>
+        }
+    </div>
+}
+else{
+    <p>No hay productos que mostrar</p>
+}
+
+
+@code{
+    private List<Product>? products;
+    
+    protected override  async Task OnInitializedAsync()
+    {
+        await GetProducts();
+    }
+    
+    private async Task GetProducts()
+    {
+        products =  await ProductService.Get();
+    }
+
+    private async Task DeleteProduct(Product product)
+    {
+        if(!await JSRuntime.InvokeAsync<bool>("confirm", $"Are you sure to remove {product.Title}"))
+            return;
+        await ProductService.Delete(product.Id);
+
+        await GetProducts();
+    }
+}
+

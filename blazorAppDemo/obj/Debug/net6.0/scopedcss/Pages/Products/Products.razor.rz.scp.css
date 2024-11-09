@@ -1,0 +1,12 @@
+.products-container[b-5t29arfb9z]{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 50px;
+}
+.card img[b-5t29arfb9z]{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
