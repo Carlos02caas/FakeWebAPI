@@ -11,53 +11,53 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = blazorappdemo
 build_property.RootNamespace = blazorappdemo
-build_property.ProjectDir = C:\Users\Carlos Andres\OneDrive\Documentos\Curso\Blazor\blazorappdemo\
+build_property.ProjectDir = C:\Users\Carlos Andres\OneDrive\Documentos\Curso\Blazor\FakeWebAPI\blazorAppDemo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Carlos Andres\OneDrive\Documentos\Curso\Blazor\blazorappdemo
+build_property.MSBuildProjectDirectory = C:\Users\Carlos Andres\OneDrive\Documentos\Curso\Blazor\FakeWebAPI\blazorAppDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/App.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Pages/Counter.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Pages/FetchData.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Pages/Index.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Pages/Products/AddProduct.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Pages/Products/AddProduct.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQWRkUHJvZHVjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Shared/ModuleTittle.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Shared/ModuleTittle.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZHVsZVRpdHRsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Shared/SurveyPrompt.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/_Imports.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Pages/Products/Products.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Pages/Products/Products.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5t29arfb9z
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Shared/MainLayout.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rnook4l0vg
 
-[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/blazorappdemo/Shared/NavMenu.razor]
+[C:/Users/Carlos Andres/OneDrive/Documentos/Curso/Blazor/FakeWebAPI/blazorAppDemo/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-t6sqovoj5n

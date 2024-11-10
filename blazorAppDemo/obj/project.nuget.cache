@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CdHwhNOLpbXxClMiDJrjdY0vRpJMKYDSe31DBCkPaabKMoARP1L/U/YnjgKsO3xp1HcDXgMFVJaUOCk1JQ6FtA==",
+  "dgSpecHash": "SNmuj4mbx3cGuRKdzFlwkgo/0hjAlA0yDOS/bjd6Brjiwe+vnZhvq+jtKaUD7BjPkKnZ+ifYFOn0OC/Ctwms0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\blazorappdemo\\blazorappdemo.csproj",
+  "projectFilePath": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\FakeWebAPI\\blazorAppDemo\\blazorappdemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Carlos Andres\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.35\\microsoft.aspnetcore.authorization.6.0.35.nupkg.sha512",
     "C:\\Users\\Carlos Andres\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.35\\microsoft.aspnetcore.components.6.0.35.nupkg.sha512",

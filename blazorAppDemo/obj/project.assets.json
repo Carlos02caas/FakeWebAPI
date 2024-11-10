@@ -1768,11 +1768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\blazorappdemo\\blazorappdemo.csproj",
+      "projectUniqueName": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\FakeWebAPI\\blazorAppDemo\\blazorappdemo.csproj",
       "projectName": "blazorappdemo",
-      "projectPath": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\blazorappdemo\\blazorappdemo.csproj",
+      "projectPath": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\FakeWebAPI\\blazorAppDemo\\blazorappdemo.csproj",
       "packagesPath": "C:\\Users\\Carlos Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\blazorappdemo\\obj\\",
+      "outputPath": "C:\\Users\\Carlos Andres\\OneDrive\\Documentos\\Curso\\Blazor\\FakeWebAPI\\blazorAppDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
